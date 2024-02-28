@@ -38,19 +38,22 @@
     * 슬라이드 라이브러리 (Swiper) : https://swiperjs.com/
     * 유튜브 불러오기 API : https://developers.google.com/youtube/iframe_api
     * 스크롤 감지 라이브러리 (ScrollMagic) : https://cdnjs.com/libraries/ScrollMagic
-    
-
-
-  
 
 
 
+# 스타벅스 홈페이지 (로그인 Page)
 
-      
-    
+## 개요
+    스타벅스 화면 구성 된 내용에 Git 을 이용한 버전관리가 포함되어 로그인 페이지까지 구현
 
+## 주요 실습내용
+    * Git 분기로 개발내용 진행 / 버전관리
+    * 공통으로 사용되는 js 기능, css 스타일 분리작업
 
+## 보완 및 개선필요 사항
+    * 페이지 이동 시 데이터 전달 및 로그 가져오는 부분이 없음.
+    * DB Back-End 데이터 가져오는 부분이 없음.
 
+## 관련링크
+    * 작업 Github : https://github.com/ReLight-Personal/starbucks
 
-
-- 
