@@ -1,5 +1,7 @@
-# 실습완료 배포 사이트 (Netlify)
+# 실습 완료 후 템플릿 (Netlify 배포)
 https://genuine-salamander-2b6ac1.netlify.app/
+
+---
 
 # 스타벅스 홈페이지 (메인 Page)
 
